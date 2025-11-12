@@ -1,0 +1,36 @@
+:root { --footer-h: 56px; }
+
+html, body { height: 100%; }
+body { 
+    margin: 0;
+    padding: 0 40px var(--footer-h);   
+    background-color: #eaeec9;
+}
+
+main {
+    flex: 1;                     
+}
+
+h1, h2 {
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+    color: #337800
+}
+
+p {
+    font-family: 'Mountains of Christmas', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333333;
+    margin: 10px 0;
+}
+
+footer {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    height: var(--footer-h);
+    display: flex; align-items: center; justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}

@@ -1,0 +1,77 @@
+.header-container {
+  display: flex;
+  align-items: center;        /* vertical centering */
+  justify-content: space-between; /* left-right positioning */
+  padding: 20px;              /* adds space inside container */
+  height: 120px;              /* ensures enough vertical space */
+}
+
+
+.titles {
+  display: flex;
+  flex-direction: column;          /* stack h1 above h2 */
+  gap: 5px;
+  text-align: center;              /* center the text itself */
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);     /* horizontally center in container */
+}
+
+#main-title {
+  font-family: 'Shrek', sans-serif;
+  font-size: 36px;
+  color: #85c232;
+  margin: 0;
+}
+
+#sub-title {
+  font-family: 'Shrek', sans-serif;
+  font-size: 20px;
+  color: #c3e88d;
+  margin: 0;
+}
+
+#title_shrek {
+  position: absolute;
+  right: 20px;                     /* keep image on the right */
+  width: 150px;
+  height: auto;
+}
+
+.titles {
+  display: flex;            /* nested flex container for vertical stacking */
+  flex-direction: column;   /* stack h1 over h2 */
+  gap: 5px;                 /* space between h1 and h2 */
+}
+
+#main-title {
+  font-family: 'Shrek', sans-serif;
+  font-size: 36px;
+  color: #85c232;
+  margin: 0;
+}
+
+#sub-title {
+  font-family: 'Shrek', sans-serif;
+  font-size: 20px;
+  color: #c3e88d;
+  margin: 0;
+}
+
+#title_shrek {
+  width: 300px;
+  height: auto;
+}
+
+#sub-title {
+  font-family: fantasy, sans-serif; /* your Shrek font */
+  color: white;                   /* swampy green text */
+  font-size: 24px;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /* makes text pop */
+  margin: 20px 0;
+}
+
+#intro_to_shrek{
+    font-family: fantasy,sans-serif !important;
+}

@@ -9,7 +9,7 @@ Talk through each section with your partner. Add notes on what you discussed and
 (All I need is access to the internet, a laptop and be able to communicate with my teammates. (There's a slack group chat where we can reach out to each other.))
 
 # Nadia
-(insert your answer here)
+(I need a stable internet connection, my laptop, and access to our shared GitHub repo and Slack channel for communication.)
 
 # Xin Li
 (insert your answer here)
@@ -24,7 +24,8 @@ Talk through each section with your partner. Add notes on what you discussed and
 (I personally like when we can work togheter at the same time (live), but since this is a bigger group and I think it would be fine to work separately and then discuss about our approaches.)
 
 # Nadia
-(insert your answer here)
+(I think it’s great if we can start by coding together to align on structure and logic, then divide tasks so we can work independently and later review each other’s code.
+I’m comfortable using GitHub for collaboration and Slack/Zoom for communication and quick check-ins.)
 
 # Xin Li
 (insert your answer here)
@@ -56,7 +57,7 @@ I like to take a few minutes to think through a problem before discussing.
 I prefer straightfoward feedback. Just be honest and direct!
 
 # Nadia
-(insert your answer here)
+(I appreciate clear and specific feedback that includes examples or suggestions for improvement. I prefer feedback to be kind but direct, whether written in a PR comment or discussed briefly during meetings.)
 
 # Xin Li
 (insert your answer here)
@@ -71,7 +72,7 @@ I prefer straightfoward feedback. Just be honest and direct!
 I'd love to practice clear comunication!
 
 # Nadia
-(insert your answer here)
+(I’d like to keep improving my ability to explain technical ideas clearly in English — to practice using precise programming vocabulary when discussing code or problem-solving.)
 
 # Xin Li
 (insert your answer here)
@@ -82,10 +83,12 @@ I'd love to practice clear comunication!
 ## Optional: Other agreements
 *Other co-working agreements that were not captured in the above sections.*
 
+Let’s be flexible with scheduling, keep communication transparent, and support each other’s learning pace.
 
 ## Signatures
 ______________ ____
 Mengqiao Han
 Xin Li
 Priscilla Andresen
+Nadia Nialiubina
 Date: NOv 10 2025

@@ -2,6 +2,10 @@
     padding: 0 16px 16px; /* override general padding */
 }
 
+.page-characters header{
+  padding-block: 2px;      /* override general padding */
+}
+
 .page-characters nav {
     text-align: left;   /* override general text alignment */
 }

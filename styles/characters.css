@@ -6,10 +6,6 @@
   padding-block: 2px;      /* override general padding */
 }
 
-.page-characters nav {
-    text-align: left;   /* override general text alignment */
-}
-
 .characters-gallery .char-card { 
     margin: 0; 
 }
@@ -127,12 +123,13 @@
     transform: rotateY(180deg);
     text-align: center;
 }
-.flip-back p {
+.flip-back .back-text {
     margin: 0;
     font-size: 14px; /* override general font size */
     line-height: 1.45; /* override general line height */
     font-family: 'Poppins', sans-serif; /* override general font family */
     color: #333;
+    display: block;
 }
 
 @media (prefers-reduced-motion: reduce) {

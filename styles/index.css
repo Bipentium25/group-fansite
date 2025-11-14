@@ -25,13 +25,13 @@
 }
 
 #sub-title {
-  font-family: fantasy, sans-serif; 
-  color: white;                   
-  font-size: 24px;
-  text-align: center;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
-  margin: 20px 0;
-}
+    font-family: fantasy, sans-serif; 
+    color: white;                   
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
+    margin: 20px 0;
+    }
 
 #intro_to_shrek{
     font-family: fantasy,sans-serif !important;
@@ -51,4 +51,22 @@
 }
 #main-title, #sub-title {
   margin: 0;   /* remove all default top/bottom spacing */
+}
+
+.video-container {
+    position: relative;
+    width: 100%;           /* flexible width */
+    max-width: 1400px;     /* optional max size */
+    padding-top: 56.25%;   /* 16:9 aspect ratio (height ÷ width * 100%) */
+    margin: 0 auto;        /* center horizontally */
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
